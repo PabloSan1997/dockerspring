@@ -11,6 +11,7 @@ import java.util.UUID;
 
 @RestController
 @RequestMapping("/api/datos")
+@CrossOrigin(origins = "*")
 public class AppController {
     @Autowired
     private AppService appService;
