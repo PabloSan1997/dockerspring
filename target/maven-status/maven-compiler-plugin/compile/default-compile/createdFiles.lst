@@ -1,0 +1,7 @@
+com\xd\borramexd\controller\AppController.class
+com\xd\borramexd\service\AppService.class
+com\xd\borramexd\models\DatoDto.class
+com\xd\borramexd\BorramexdApplication.class
+com\xd\borramexd\models\Dato.class
+com\xd\borramexd\models\Dato$DatoBuilder.class
+com\xd\borramexd\service\AppServiceImp.class
